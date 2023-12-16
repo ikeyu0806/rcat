@@ -9,5 +9,5 @@ docker-compose run rcat cargo add clap
 
 ## 実行
 ```
-docker-compose run rcat cargo run
+docker-compose run rcat cargo run README.md
 ```
